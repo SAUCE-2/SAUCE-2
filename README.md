@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **SpaceNetworks**
 
-- 💬 Ask me about **SpaceNetworks content**
-
-- 📫 How to reach me **sauce2business@gmail.com**
+- 📫 Reach me at **sauce2business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
